@@ -1,6 +1,7 @@
 ---
 title: "Top 6 things I've Learned as a Guitar Noob"
 date: 2023-04-02T04:51:53-08:00
+layout: posts
 categories:
   - guitar
 draft: false
